@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Belekar</h1>
 <h3 align="center">A passionate iOS developer from India</h3>
 
-- 🔭 I’m currently working on **MechUni Development**
+- 🔭 I’m currently working on **Custom Library For Authentications**
 
 - 🌱 I’m currently learning **Java, SwiftUI, Animation**
 
