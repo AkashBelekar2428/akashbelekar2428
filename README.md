@@ -7,7 +7,9 @@
 
 - 👯 I’m looking to collaborate on **MechUni Application**
 
-- 📫 How to reach me **akkibelekar28@gmail.com**
+- 📫 How to reach me **akkibelekar28@gmail.com, akash_belekar_2428**
+
+- 🌱 Now start working on **SwiftUI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
