@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **akkibelekar28@gmail.com, akash_belekar_2428**
 
-- 🌱 Now start working on **SwiftUI**
+- 🥷🏻 Now start working on **SwiftUI**
 
-- 📫 I’m currently learning **Flutter Technology**
+- 👨🏻‍💻 I’m currently learning **Flutter Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
