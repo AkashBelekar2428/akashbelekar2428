@@ -12,6 +12,8 @@
 - 🥷🏻 Now start working on **SwiftUI**
 
 - 👨🏻‍💻 I’m currently learning **Flutter Technology**
+  
+- 📞 Reach out to me **95525724**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
