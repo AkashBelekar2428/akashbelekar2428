@@ -15,7 +15,7 @@
   
 - 📞 Reach out to me **95525724**
 
-- 🎁 🎂 ** Wish You Happy Birthday Pillya 🥰 **
+- 🎁 🎂 **Wish You Happy Birthday Pillya 🥰**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
